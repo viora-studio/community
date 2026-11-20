@@ -10,12 +10,12 @@ Use [GitHub Discussions](https://github.com/viora-studio/community/discussions) 
 
 Suggested discussion areas:
 
-- **Announcements** — Official news, releases, and updates from Viora Studio.
-- **General** — General conversations about Viora Studio and its ecosystem.
-- **Ideas & Suggestions** — Share ideas and propose improvements.
-- **Q&A** — Ask questions and help others find answers.
-- **Development** — Discuss technical topics, integrations, and development.
-- **Community** — Meet other members and share what you're working on.
+- **Announcements:** Official news, releases, and updates from Viora Studio.
+- **General:** General conversations about Viora Studio and its ecosystem.
+- **Ideas & Suggestions:** Share ideas and propose improvements.
+- **Q&A:** Ask questions and help others find answers.
+- **Development:** Discuss technical topics, integrations, and development.
+- **Community:** Meet other members and share what you're working on.
 
 ## How to Participate
 
